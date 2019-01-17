@@ -2,6 +2,13 @@ Link to video:
 
 https://www.youtube.com/watch?v=RRzYGr7-yb8
 
+About me: 
+
+Rashedul Hoque Arif
+CSE, BRAC University
+email: rashedulhoque049@gmail.com
+
+Description:
 
 There is an increasing demand for smart homes, where appliances can be easily controlled through one common device. 
 
